@@ -1,5 +1,4 @@
 # Vendor Performance Analysis
-I can't upload dataset because they are more than 1.5GB size, so if you want to know then click here: (https://drive.google.com/drive/folders/1zEvsAn6QaK_h_S17vVyCubVzTiT_19VF?usp=sharing)
 
 ## 1. Business Problem Statements
 Effective inventory and sales management are critical for optimizing profitability in the retail and wholesale industry. Companies need to ensure that they are not incurring losses due to inefficient pricing, poor inventory turnover, or vendor dependency.<br>
@@ -27,7 +26,6 @@ Analyze vendor and brand (Products) performance using sales, purchase, profit, a
 
 ## 4.	Tech Stack
 ### The dashboard was built using the following tools and technologies:<br>
-•	📝 Excel – Data is present in ".csv" file.<br>
 •	🛢 SQLite3 – For uploading and fetching all the required and summary data to database.<br>
 •	👨🏻‍💻 Python – For data modelling and exploratory data analysis (EDA).<br>
 •	📊 Power BI Desktop – Main data visualization platform used for report creation.<br>
