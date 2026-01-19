@@ -71,8 +71,6 @@ Low-performing vendors maintain higher margins but struggle with sales volumes, 
 3. Leverage bulk purchasing advantages to maintain competitive pricing while optimizing inventory management.<br>
 4. Optimize slow-moving inventory by adjusting purchase quantities, launching clearance sales, or revising storage strategies.<br>
 5. Enhance marketing and distribution strategies for low-performing vendors to drive higher sales volumes without compromising profit margins.<br>
-6. By implementing these recommendations, the company can achieve sustainable profitability, mitigate risks, and enhance overall operational efficiency.
+6. By implementing these recommendations, the company can achieve sustainable profitability, mitigate risks, and enhance overall operational efficiency.<br>
 
-## 8.	Screenshots / Demos
-Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-Example: ![Dashboard Preview](https://github.com/Prajin-Kamble/Vendor-Performance-Analysis/blob/main/Snapshot%20of%20dashboard.png)
+![Dashboard Preview](https://github.com/Prajin-Kamble/Vendor-Performance-Analysis-Retail-Domain/blob/main/Analysis%20Screenshot/Snapshot%20of%20the%20dashboard.png)
