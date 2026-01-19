@@ -40,16 +40,16 @@ The dashboard further breaks down performance through comparative visuals. Bar c
 ## 6. Insights and Business Impact
 ### Q.1. Identify underperforming brands that require promotional or pricing adjustments?
 198 brands exhibit lower sales but higher profit margins, which could benefit from targeted marketing, promotions, or price optimizations to increase volume without compromising profitability.<br>
-![Underperforming Brands Preview](https://github.com/Prajin-Kamble/Vendor-Performance-Analysis/blob/main/Analysis%20Screenshot/Brands%20for%20promotional%20and%20pricing%20adjustments.PNG)
+![Underperforming Brands Preview](https://github.com/Prajin-Kamble/Vendor-Performance-Analysis-Retail-Domain/blob/main/Screenshots/Brand%20need%20promotions.PNG)
 
 ### Q.2. Determine top vendors contributing to sales and gross profit?
 The top 10 vendors contribute 65.69% of total purchases, while the remaining vendors contribute only 34.31%. This over-reliance on a few vendors may introduce risks such as supply chain disruptions, indicating a need for diversification.<br>
-![Top Vendors Contribution Preview](https://github.com/Prajin-Kamble/Vendor-Performance-Analysis/blob/main/Analysis%20Screenshot/Top%20vendors%20who%20contribution%20is%20high.PNG)
+![Top Vendors Contribution Preview](https://github.com/Prajin-Kamble/Vendor-Performance-Analysis-Retail-Domain/blob/main/Screenshots/Top%20vendors%20who%20contribution%20is%20high.PNG)
 
 ### Q.3. Analyze the impact of bulk purchasing on unit costs?
 Vendors buying in large quantities receive a 72% lower unit cost ($10.78 per unit vs. higher unit costs in smaller orders).<br>
 Bulk pricing strategies encourage larger orders, increasing total sales while maintaining profitability.<br>
-![Impact of Bulk Purchasing Preview](https://github.com/Prajin-Kamble/Vendor-Performance-Analysis/blob/main/Analysis%20Screenshot/Bulk%20purchasing%20on%20cost.PNG)
+![Impact of Bulk Purchasing Preview](https://github.com/Prajin-Kamble/Vendor-Performance-Analysis-Retail-Domain/blob/main/Screenshots/Bulk%20purchasing%20on%20cost.PNG)
 
 ### Q.4. Assess inventory turnover to reduce holding costs and improve efficiency?
 Total Unsold Inventory Capital: $2.71M<br>
@@ -73,4 +73,4 @@ Low-performing vendors maintain higher margins but struggle with sales volumes, 
 5. Enhance marketing and distribution strategies for low-performing vendors to drive higher sales volumes without compromising profit margins.<br>
 6. By implementing these recommendations, the company can achieve sustainable profitability, mitigate risks, and enhance overall operational efficiency.<br>
 
-![Dashboard Preview](https://github.com/Prajin-Kamble/Vendor-Performance-Analysis-Retail-Domain/blob/main/Analysis%20Screenshot/Snapshot%20of%20the%20dashboard.png)
+![Dashboard Preview](https://github.com/Prajin-Kamble/Vendor-Performance-Analysis-Retail-Domain/blob/main/Screenshots/Snapshot%20of%20the%20dashboard.png)
